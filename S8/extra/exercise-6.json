@@ -1,0 +1,99 @@
+{
+  "characters": [
+    {
+      "id": 3,
+      "name": "Licántropo",
+      "avatar": "http://localhost:3000/images/licantropo.jpg",
+      "damage": [
+        "4d10",
+        "2d20"
+      ],
+      "critic": 10,
+      "defense": 4,
+      "vitality": 250
+    },
+    {
+      "id": 1,
+      "name": "Orco",
+      "avatar": "http://localhost:3000/images/orco.jpg",
+      "damage": [
+        "3d20"
+      ],
+      "critic": 15,
+      "defense": 12,
+      "vitality": 300
+    },
+    {
+      "id": 1,
+      "name": "Elfo",
+      "avatar": "http://localhost:3000/images/elfo.jpg",
+      "damage": [
+        "12d6"
+      ],
+      "critic": 6,
+      "defense": 8,
+      "vitality": 225
+    },
+    {
+      "name": "Krull",
+      "damage": [
+        "2d10",
+        "3d20"
+      ],
+      "avatar": "https://supercurioso.com/wp-content/uploads/2016/09/los-7-demonios-capitales2.jpg",
+      "defense": 15,
+      "critic": 2,
+      "vitality": 300,
+      "id": 4
+    },
+    {
+      "name": "",
+      "damage": [
+        ""
+      ],
+      "avatar": "",
+      "defense": 0,
+      "critic": 0,
+      "vitality": 0,
+      "id": 5
+    },
+    {
+      "name": "Goku",
+      "damage": [
+        "3d8",
+        "5d10",
+        "1d25"
+      ],
+      "avatar": "https://i.pinimg.com/originals/3c/2d/1b/3c2d1b10bb5529519c29b88ee64f7ef5.png",
+      "defense": 10,
+      "critic": 8,
+      "vitality": 220,
+      "id": 6
+    },
+    {
+      "name": "Vegeta",
+      "damage": [
+        "2d10",
+        "3d5",
+        "2d15"
+      ],
+      "avatar": "https://w7.pngwing.com/pngs/945/984/png-transparent-vegeta-goku-majin-buu-dragon-ball-raging-blast-2-aura-cartoon-fictional-character-desktop-wallpaper.png",
+      "defense": 15,
+      "critic": 5,
+      "vitality": 220,
+      "id": 7
+    },
+    {
+      "name": "Wesley",
+      "damage": [
+        "5d8",
+        "4d16"
+      ],
+      "avatar": "https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/hc_1440x810/public/media/image/2019/01/Still-of-Wesley-Snipes-from-Blade.jpg?itok=cMfnkLn7",
+      "defense": 9,
+      "critic": 25,
+      "vitality": 205,
+      "id": 8
+    }
+  ]
+}
